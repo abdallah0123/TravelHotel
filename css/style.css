@@ -1,0 +1,204 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    color: #485460;
+}
+
+h1,
+h4,
+h5,
+.btn-warning {
+    font-weight: 700;
+}
+
+h4,
+h5,
+i,
+.btn-warning,
+.btn-warning:hover {
+    color: #fff;
+}
+
+h1 {
+    font-size: 4.5rem;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 2.5rem;
+    width: 35rem;
+    margin: 2rem auto;
+
+}
+
+h4 {
+    font-size: 2rem;
+    margin-bottom: 4rem;
+
+}
+
+h5 {
+    font-size: 1.6rem;
+    display: inline-block;
+
+
+}
+
+p {
+    font-size: 1.5rem;
+    color: #8f8f8f;
+    line-height: 1.5;
+
+}
+
+.text {
+    padding-right: 3rem;
+}
+
+.navbar-nav {
+    padding: 2rem 3rem;
+    font-size: 1.8rem;
+
+}
+
+.nav-item {
+    margin-right: 2rem;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 2rem;
+}
+
+
+.header {
+    padding: 5rem 8rem;
+    background-color: #F0F0F0;
+}
+
+.btn-warning {
+    background-color: #F49747;
+    padding: 1rem 3.5rem;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+
+}
+
+.btn-warning:hover {
+    background-color: #f28527;
+}
+
+.btn-space {
+    margin-top: 6rem
+}
+
+
+
+.section-img {
+    width: 35rem;
+    height: 23.3rem;
+    margin: 3rem 0;
+
+}
+
+.hero-img {
+    margin-left: 4rem;
+}
+
+.section {
+    padding: 3rem 0 5rem 10rem;
+    overflow: hidden;
+}
+
+.description {
+    width: 34rem;
+}
+
+.footer {
+    padding: 5rem 4rem;
+    background-color: #292929;
+
+}
+
+.post {
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.post-text {
+    margin-bottom: -1.5rem;
+}
+
+
+
+.icons {
+    list-style: none;
+}
+
+.icon {
+    margin-bottom: 2rem;
+    color: #8f8f8f;
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.facebook:hover {
+    color: #4267B2;
+}
+
+.twitter:hover {
+    color: #339AF0;
+}
+
+.rss:hover {
+    color: #F89839;
+}
+
+.google:hover {
+    color: #DD4E42;
+}
+
+i {
+    font-size: 3rem;
+    margin-right: 2rem;
+    transition: 0.5s ease;
+
+}
+
+i:hover {
+    transition: 0.3s ease;
+
+}
+
+.space {
+    padding-left: 11rem;
+}
+
+.space2 {
+    padding-left: 5rem;
+
+}
+
+.space2 p {
+    margin-bottom: 4rem;
+}
