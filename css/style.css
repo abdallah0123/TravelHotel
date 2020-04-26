@@ -37,11 +37,12 @@ h1 {
     font-size: 4.5rem;
     margin-bottom: 2rem;
     line-height: 1.5;
+    min-width: 58.42rem
 }
 
 h2 {
     font-size: 2.5rem;
-    width: 35rem;
+    width: 26rem;
     margin: 2rem auto;
 
 }
@@ -68,6 +69,7 @@ p {
 
 .text {
     padding-right: 3rem;
+    width: 53rem;
 }
 
 .navbar-nav {
@@ -118,11 +120,11 @@ p {
 }
 
 .hero-img {
-    margin-left: 4rem;
+    /* margin-left: 4rem; */
 }
 
 .section {
-    padding: 3rem 0 5rem 10rem;
+    padding: 3rem 0 8rem 0rem;
     overflow: hidden;
 }
 
@@ -191,14 +193,18 @@ i:hover {
 }
 
 .space {
-    padding-left: 11rem;
+    /* padding-left: 11rem; */
 }
 
 .space2 {
-    padding-left: 5rem;
+    /* padding-left: 5rem; */
 
 }
 
 .space2 p {
     margin-bottom: 4rem;
+}
+
+.spacing{
+  padding-left: 8rem
 }
